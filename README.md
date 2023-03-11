@@ -15,7 +15,3 @@ Skills: C++ / C / Java / Python / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jlara38&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jlara38)  
-
-![GitHub metrics](https://metrics.lecoq.io/Jlara38)  
-
