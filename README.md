@@ -7,6 +7,7 @@ Skills: C++ / C / Java / Python / SQL
 - 🌱 I’m currently learning Kotlin  
 - 📫 How to reach me: josetlara28@gmail.com 
 - 😄 Pronouns: He/Him 
+- ⚡ Fun fact: Proficient in Spanish 
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jlara38)](https://github.com/anuraghazra/github-readme-stats) -->
