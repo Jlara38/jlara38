@@ -2,6 +2,8 @@
 
 I'm Jose, I am interested in mobile app development and the usage of languages such as C and C++. Additionally, I enjoy being able to learn about and playing with new languages ex: SQL and Java. I tend to use Visual Studio Code, CLion, Android Studio, and IntelliJ for my coding needs. Currently trying to pick up Kotlin for a smoother experience in Android App Development. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jlara38)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Jlara38/jlara38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
