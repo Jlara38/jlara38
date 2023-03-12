@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jose Lara
 #### Computer Scientist and Programmer
-I'm Jose, I am interested in mobile app development and the usage of languages such as C and C++. Additionally, I enjoy being able to learn about and playing with new languages ex: SQL, Python, and Java. I tend to use Visual Studio Code, CLion, Android Studio, and IntelliJ for my coding needs. Currently trying to pick up Kotlin for a smoother experience in Android App Development.
+I'm Jose, I am interested in mobile app development and the usage of languages such as C and C++. Additionally, I enjoy being able to learn about and playing with new languages ex: SQLite, Python, and Java. I tend to use Visual Studio Code, CLion, Android Studio, and IntelliJ for my coding needs. Currently trying to pick up Kotlin for a smoother experience in Android App Development.
 
 Skills: C++ / C / Java / Python / SQL
 
